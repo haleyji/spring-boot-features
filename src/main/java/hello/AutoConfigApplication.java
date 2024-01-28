@@ -10,4 +10,6 @@ public class AutoConfigApplication {
         SpringApplication.run(AutoConfigApplication.class, args);
     }
 
+    //문서 변경 커밋용
+
 }
